@@ -1,4 +1,11 @@
-.form,.greetings{
+.btn{
+  cursor:pointer;
+}
+body {
+  color: #34495e;
+}
+
+.form, .greetings{
   display: none;
 }
 .showing {
